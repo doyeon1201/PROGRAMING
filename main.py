@@ -1,4 +1,5 @@
 import sys
+file = open('COVID 19.txt', 'w')
 
-f = open('COVID 19.txt', 'r')
-line = f.readline()
+result = list(map(int))
+avg = sum(result/len(result)
